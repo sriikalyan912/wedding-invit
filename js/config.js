@@ -9,7 +9,7 @@
 const WEDDING = {
   /* ---- Couple ---- */
   groomName: "Merwin Tamilselven",
-  brideName: "Sheela Angle",
+  brideName: "Sheela Angel",
   // Shown as the small line above the names in the hero (optional)
   intro: "Together with our families, invite you to celebrate",
 
