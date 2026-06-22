@@ -35,7 +35,7 @@ const WEDDING = {
       venueName: "APostolic Christian Assembly",
       venueAddress: "No.294, M.H Road, Vadakarai, Chennai-52",
       // Paste the full Google Maps share link to this venue here.
-      mapsLink: "https://www.google.com/maps/search/?api=1&query=Sri+Kalyana+Mandapam+Bengaluru",
+      mapsLink: "https://maps.app.goo.gl/1AMbsbLHCphaW2wK9",
     },
     {
       label: "The Reception",
@@ -46,7 +46,7 @@ const WEDDING = {
       venueName: "K.T.S Mahal",
       venueAddress: "Redhills (Near Galaxy Mall)",
       // Paste the full Google Maps share link to this venue here.
-      mapsLink: "https://www.google.com/maps/search/?api=1&query=The+Leela+Palace+Bengaluru",
+      mapsLink: "https://maps.app.goo.gl/ySP5RyvaS9robfbu6",
     },
   ],
 
