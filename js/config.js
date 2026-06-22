@@ -32,10 +32,10 @@ const WEDDING = {
       durationHours: 3,
       displayDate: "Thursday, June 25, 2026",
       displayTime: "04:00 PM onwards",
-      venueName: "APostolic Christian Assembly",
+      venueName: "Apostolic Christian Assembly",
       venueAddress: "No.294, M.H Road, Vadakarai, Chennai-52",
       // Paste the full Google Maps share link to this venue here.
-      mapsLink: "https://maps.app.goo.gl/1AMbsbLHCphaW2wK9",
+      mapsLink: "https://maps.app.goo.gl/Do8MNPQFiCMN6C2J9?g_st=ac",
     },
     {
       label: "The Reception",
