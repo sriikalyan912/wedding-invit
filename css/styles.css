@@ -189,23 +189,28 @@ section { padding: 5rem 1.5rem; position: relative; }
 .hero__frame::after  { bottom: -2px; right: -2px; border-left: none; border-top: none; }
 
 .hero__verse {
-  margin-bottom: 1.4rem; opacity: 0; transform: translateY(14px);
+  margin-bottom: 1.6rem; opacity: 0; transform: translateY(14px);
   animation: heroUp 1s var(--ease) 0.15s forwards;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid rgba(227, 205, 150, 0.45);
 }
 .hero__verse-praise {
   font-family: var(--script); font-weight: 400;
-  font-size: clamp(1.8rem, 7vw, 2.6rem); line-height: 1;
-  color: var(--gold-light); text-shadow: 0 3px 18px rgba(0,0,0,0.45);
+  font-size: clamp(2.2rem, 9vw, 3rem); line-height: 1;
+  color: var(--white);
+  text-shadow: 0 2px 12px rgba(0,0,0,0.7), 0 0 30px rgba(201,162,83,0.4);
 }
 .hero__verse-text {
   font-family: var(--serif); font-style: italic; font-weight: 400;
-  font-size: clamp(0.95rem, 4vw, 1.2rem); line-height: 1.5;
-  color: var(--cream); margin-top: 0.35rem;
+  font-size: clamp(1rem, 4.2vw, 1.25rem); line-height: 1.6;
+  color: var(--white); margin-top: 0.5rem;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.6);
 }
 .hero__verse-ref {
-  font-family: var(--sans); font-weight: 300;
-  font-size: 0.66rem; letter-spacing: 3px; text-transform: uppercase;
-  color: var(--gold-light); opacity: 0.85; margin-top: 0.45rem;
+  font-family: var(--sans); font-weight: 400;
+  font-size: 0.7rem; letter-spacing: 3px; text-transform: uppercase;
+  color: var(--gold-light); margin-top: 0.5rem;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.5);
 }
 
 .hero__intro {
